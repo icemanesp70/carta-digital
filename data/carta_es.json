@@ -1,0 +1,337 @@
+{
+  "familias": [
+    {
+      "nombre": "RIBERA DEL DUERO TINTO",
+      "icono": "ribera_del_duero_tinto.png",
+      "articulos": [
+        {
+          "nombre": "LAGAR DEL REY",
+          "precio": 20.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "ROBLEDAL",
+          "precio": 16.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MATARROMERA",
+          "precio": 32.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "EMILIO MORO",
+          "precio": 29.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "TRUS",
+          "precio": 24.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "TRUS COSECHA",
+          "precio": 18.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "TOMAS POSTIGO",
+          "precio": 35.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "PAGO DE CARRAOVEJAS",
+          "precio": 45.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "AVAN OAK COSECHA",
+          "precio": 16.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "CARMELO RODERO",
+          "precio": 20.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "FINCA RESALSO",
+          "precio": 20.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "ALBARIÑO",
+      "icono": "albariÑo.png",
+      "articulos": [
+        {
+          "nombre": "MAR DE FRADES",
+          "precio": 25.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MARTIN CODAX",
+          "precio": 22.00,
+          "descripcion": "22"
+        },
+        {
+          "nombre": "TERRAS GAUDAS",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MAR DE ONS",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "PAZO DE SEOANE",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "ABADIA DE SAN CAMPIO",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "RIAS ALTAS",
+          "precio": 18.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "LAGAR DE CERVERA",
+          "precio": 22.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "UVA GODELLO",
+      "icono": "uva_godello.png",
+      "articulos": [
+        {
+          "nombre": "AVANCIA",
+          "precio": 24.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "POLVORETE",
+          "precio": 24.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "VERDES CASTRO",
+          "precio": 20.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "GODEVAL",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "LAGAR DE DEUSES",
+          "precio": 25.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "RIBEIRO",
+      "icono": "ribeiro.png",
+      "articulos": [
+        {
+          "nombre": "VIÑA COSTEIRO",
+          "precio": 20.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "RIOJA TINTO",
+      "icono": "rioja_tinto.png",
+      "articulos": [
+        {
+          "nombre": "MONTECILLO CRIANZA",
+          "precio": 20.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MARQUÉS DE GRIÑÓN",
+          "precio": 18.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "VIÑA ARDANZA",
+          "precio": 28.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "RUEDA VERDEJO",
+      "icono": "rueda_verdejo.png",
+      "articulos": [
+        {
+          "nombre": "JOSÉ PARIENTE",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "SOTAVENTO",
+          "precio": 18.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MARQUÉS DE RISCAL",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "GUTI",
+          "precio": 16.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MOCEN",
+          "precio": 16.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "FINCA FEROES",
+          "precio": 16.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "VINOS DE ALMERIA",
+      "icono": "vinos_de_almeria.png",
+      "articulos": [
+        {
+          "nombre": "CRISTINA CALVACHE",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "SAETÍAS",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "FLOR DE INDALIA",
+          "precio": 20.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "VIÑA INDALO",
+          "precio": 16.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "ESENCIA DE ALMERIA",
+          "precio": 18.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "JOYA DEL MEDITERRANEO",
+          "precio": 18.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "VINO MANZANILLA",
+      "icono": "vino_manzanilla.png",
+      "articulos": [
+        {
+          "nombre": "MANZANILLA SOLEAR",
+          "precio": 30.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "MANZANILLA SOLEAR FINA",
+          "precio": 22.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "VINO DE AGUJA",
+      "icono": "vino_de_aguja.png",
+      "articulos": [
+        {
+          "nombre": "BLANC PESCADOR",
+          "precio": 20.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "FRIZZANTE",
+      "icono": "frizzante.png",
+      "articulos": [
+        {
+          "nombre": "YLLERA FRIZZANTE",
+          "precio": 20.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "CAVAS Y CHAMPAGNES",
+      "icono": "cavas_y_champagnes.png",
+      "articulos": [
+        {
+          "nombre": "JUVÉ&CAMPS RESERVA FAMILIAR",
+          "precio": 30.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "JUVÉ&CAMPS ESSENTIAL PURPURA",
+          "precio": 22.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "GRAN JUVÉ&CAMPS GRAN RESERVA",
+          "precio": 45.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "RENACCE",
+          "precio": 18.00,
+          "descripcion": ""
+        },
+        {
+          "nombre": "ALTA ALELLA LAIETA G.R.B.N.",
+          "precio": 28.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "ROSADO",
+      "icono": "rosado.png",
+      "articulos": [
+        {
+          "nombre": "CHIVITE",
+          "precio": 20.00,
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "nombre": "BLANCO SAUVIGNON",
+      "icono": "blanco_sauvignon.png",
+      "articulos": [
+        {
+          "nombre": "JOSÉ PARIENTE SAUVIGNON",
+          "precio": 22.00,
+          "descripcion": ""
+        }
+      ]
+    }
+  ]
+}
